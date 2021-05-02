@@ -18,24 +18,23 @@
 </h4>
 
 <h4 align="center">
-<a href="https://github.com/Orelbenr/link-budget-calculator/Report/KA_Satellite_Link_Project_Report.pdf">Project Report</a> --
-<a href="https://github.com/Orelbenr/link-budget-calculator/Report/KA_Satellite_Link_Project_Presentation.pdf">Project Presentation</a>
+<a href="Report/KA_Satellite_Link_Project_Report.pdf">Project Report</a> --
+<a href="Report/KA_Satellite_Link_Project_Presentation.pdf">Project Presentation</a>
 </h4>
 
 <p align="center">
 
 <a href="https://github.com/Orelbenr/link-budget-calculator">
     <img src="Images/homePage.png" alt="Logo" height="600">
- </a>
+</a>
 
-  <img src="https://github.com/Orelbenr/link-budget-calculator/Images/homePage.png" height="600">
 </p>
 
 ## Table of Contents
 
 * [Backgroud](#backgroud)
 * [Installation](#installation)
-* [Files](#files)
+* [Contents](#contents)
 * [References](#references)
 
 
@@ -74,7 +73,7 @@ git clone https://github.com/Orelbenr/link-budget-calculator.git
 ```
 
 
-## Files
+## Contents
 
 |Directory      | Content |
 |----------------------|------|
