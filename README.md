@@ -23,6 +23,11 @@
 </h4>
 
 <p align="center">
+
+<a href="https://github.com/Orelbenr/link-budget-calculator">
+    <img src="Images/homePage.png" alt="Logo" height="600">
+ </a>
+
   <img src="https://github.com/Orelbenr/link-budget-calculator/Images/homePage.png" height="600">
 </p>
 
