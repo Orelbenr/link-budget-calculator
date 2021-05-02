@@ -32,13 +32,13 @@
 
 ## Table of Contents
 
-* [Backgroud](#backgroud)
+* [Background](#background)
 * [Installation](#installation)
 * [Contents](#contents)
 * [References](#references)
 
 
-## Backgroud
+## Background
 The Link Budget calculator determines the optimal DVB-S2 / DVB-S2X Modcods (Modulation and Coding) for maximum data transfers, assuming downlink transmission of a  Leo satellite orbit above the base station. 
 The inputs for the calculator are the specifications of the satellite's transmitter, grounds station's receiver, and additional design parameters.
 
@@ -48,7 +48,7 @@ There are two ways to install the calculator:
 1) [As a Matlab Add-On](#matlab-add-on-installation)
 2) [As a StandAlone App](#standalone-app-installation)
 
-The first method requires a Matlab installation on the desired computer, whereas the second method doesn't require any prerequisites. The instructions for both methods are listed below.
+The first method requires a Matlab installation on the desired computer, whereas the second method does not require any prerequisites. The instructions for both methods are listed below.
 
 ### Matlab Add-On Installation
 1) Clone the repo
